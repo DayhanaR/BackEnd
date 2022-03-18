@@ -1,0 +1,16 @@
+C:\Users\DAYHANA RAMIREZ\Documents\JDB\Back\CursoDoNet\bin\Debug\net5.0\CursoDoNet.exe
+C:\Users\DAYHANA RAMIREZ\Documents\JDB\Back\CursoDoNet\bin\Debug\net5.0\CursoDoNet.deps.json
+C:\Users\DAYHANA RAMIREZ\Documents\JDB\Back\CursoDoNet\bin\Debug\net5.0\CursoDoNet.runtimeconfig.json
+C:\Users\DAYHANA RAMIREZ\Documents\JDB\Back\CursoDoNet\bin\Debug\net5.0\CursoDoNet.runtimeconfig.dev.json
+C:\Users\DAYHANA RAMIREZ\Documents\JDB\Back\CursoDoNet\bin\Debug\net5.0\CursoDoNet.dll
+C:\Users\DAYHANA RAMIREZ\Documents\JDB\Back\CursoDoNet\bin\Debug\net5.0\CursoDoNet.pdb
+C:\Users\DAYHANA RAMIREZ\Documents\JDB\Back\CursoDoNet\obj\Debug\net5.0\CursoDoNet.csproj.AssemblyReference.cache
+C:\Users\DAYHANA RAMIREZ\Documents\JDB\Back\CursoDoNet\obj\Debug\net5.0\CursoDoNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DAYHANA RAMIREZ\Documents\JDB\Back\CursoDoNet\obj\Debug\net5.0\CursoDoNet.AssemblyInfoInputs.cache
+C:\Users\DAYHANA RAMIREZ\Documents\JDB\Back\CursoDoNet\obj\Debug\net5.0\CursoDoNet.AssemblyInfo.cs
+C:\Users\DAYHANA RAMIREZ\Documents\JDB\Back\CursoDoNet\obj\Debug\net5.0\CursoDoNet.csproj.CoreCompileInputs.cache
+C:\Users\DAYHANA RAMIREZ\Documents\JDB\Back\CursoDoNet\obj\Debug\net5.0\CursoDoNet.dll
+C:\Users\DAYHANA RAMIREZ\Documents\JDB\Back\CursoDoNet\obj\Debug\net5.0\refint\CursoDoNet.dll
+C:\Users\DAYHANA RAMIREZ\Documents\JDB\Back\CursoDoNet\obj\Debug\net5.0\CursoDoNet.pdb
+C:\Users\DAYHANA RAMIREZ\Documents\JDB\Back\CursoDoNet\obj\Debug\net5.0\CursoDoNet.genruntimeconfig.cache
+C:\Users\DAYHANA RAMIREZ\Documents\JDB\Back\CursoDoNet\obj\Debug\net5.0\ref\CursoDoNet.dll
